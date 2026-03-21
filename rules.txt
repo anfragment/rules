@@ -5,3 +5,4 @@
 
 ! Credit to nikitonsky: https://mastodon.social/@nikitonsky@mastodon.online/116143232566190075
 wikipedia.org###bodyContent a:style(color: inherit !important; text-decoration: underline dashed !important; text-underline-offset: 3px !important)
+##iframe[src^="https://accounts.google.com/gsi/iframe"]
